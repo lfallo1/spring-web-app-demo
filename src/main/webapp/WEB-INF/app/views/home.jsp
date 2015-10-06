@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>Hello world</h1>
+<a href="static/index.html">Index</a>
 </body>
 </html>
